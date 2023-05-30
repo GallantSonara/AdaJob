@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AdaJob</string>
+
+    <string name="login">LOGIN</string>
+    <string name="loginDesc">Please sign in to continue</string>
+    <string name="registerDesc">Enter your usernamae, email and password</string>
+    <string name="register">REGISTER</string>
+    <string name="or">or</string>
+    <string name="register_text_button">Create New Account</string>
+    <string name="login_text_button">Login using an existing account</string>
+    <string name="username">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    
+    <string name="userinfo">Help Us Get to Know You Better</string>
+    <string name="gender">Gender</string>
+    <string name="employment_status">Are you currently employed?</string>
+    <string name="age_user_inf">How old are you?</string>
+    <string name="experience">What is your level of experience?</string>
+    
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+    <string name="is_24or_younger">24 years old or younger</string>
+    <string name="is_25_or_35">25 to 35 years old</string>
+    <string name="is_36_or_older">36 years old or older</string>
+    <string name="newbie">Newbie</string>
+    <string name="experienced">Experienced</string>
+
+    <string name="lets_hunt">LET’S HUNT</string>
+
+</resources>
