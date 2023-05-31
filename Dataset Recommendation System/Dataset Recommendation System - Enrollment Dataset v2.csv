@@ -1,0 +1,1201 @@
+user_id,user_name,user_gender,user_gender_bool,is_employed,is_employed_bool,user_age_group,user_level,user_level_bool,task_id,task_title,enrollment,enrollment_bool,task_rating
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,15,Binance,Yes,TRUE,2
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,16,Bybit,Yes,TRUE,1
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,17,Ftx,Yes,TRUE,1
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,18,Social Good,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,19,Catly.io,Yes,TRUE,1
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,20,Upbit,Yes,TRUE,1
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,22,Credit Dao,Yes,TRUE,5
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,23,Manta,Yes,TRUE,3
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,25,A,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,26,B,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,27,C,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,28,D,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,29,E,No,FALSE,0
+1,Mawar Dian,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,30,F,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,15,Binance,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,16,Bybit,Yes,TRUE,2
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,17,Ftx,Yes,TRUE,5
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,18,Social Good,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,19,Catly.io,Yes,TRUE,5
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,20,Upbit,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,21,BNB Doge,Yes,TRUE,4
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,22,Credit Dao,Yes,TRUE,4
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,23,Manta,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,25,A,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,26,B,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,27,C,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,28,D,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,29,E,No,FALSE,0
+2,Dwi Mega,Female,FALSE,Unemployed,FALSE,A,Beginner,FALSE,30,F,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,15,Binance,Yes,TRUE,2
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,16,Bybit,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,17,Ftx,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,18,Social Good,Yes,TRUE,1
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,19,Catly.io,Yes,TRUE,3
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,20,Upbit,Yes,TRUE,2
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,21,BNB Doge,Yes,TRUE,5
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,22,Credit Dao,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,23,Manta,Yes,TRUE,4
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,25,A,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,26,B,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,27,C,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,28,D,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,29,E,No,FALSE,0
+3,Fatimah Lestari,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,30,F,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,15,Binance,Yes,TRUE,2
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,16,Bybit,Yes,TRUE,1
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,17,Ftx,Yes,TRUE,1
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,18,Social Good,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,19,Catly.io,Yes,TRUE,1
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,20,Upbit,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,22,Credit Dao,Yes,TRUE,1
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,23,Manta,Yes,TRUE,4
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,25,A,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,26,B,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,27,C,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,28,D,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,29,E,No,FALSE,0
+4,Anisa Tri,Female,FALSE,Unemployed,FALSE,B,Beginner,FALSE,30,F,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,3,Zetachain,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,4,Taiko,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,12,Savvy,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,15,Binance,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,16,Bybit,Yes,TRUE,2
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,17,Ftx,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,18,Social Good,Yes,TRUE,1
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,19,Catly.io,Yes,TRUE,4
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,20,Upbit,Yes,TRUE,4
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,22,Credit Dao,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,23,Manta,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,24,ETHOS,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,25,A,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,26,B,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,27,C,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,28,D,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,29,E,No,FALSE,0
+5,Citra Nirmala,Female,FALSE,Unemployed,FALSE,C,Beginner,FALSE,30,F,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,2
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,3,Zetachain,Yes,TRUE,3
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,4,Taiko,Yes,TRUE,4
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,3
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,4
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,12,Savvy,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,13,GiroSwap,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,15,Binance,Yes,TRUE,3
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,16,Bybit,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,17,Ftx,Yes,TRUE,2
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,18,Social Good,No,FALSE,0
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,19,Catly.io,Yes,TRUE,5
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,20,Upbit,Yes,TRUE,5
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,21,BNB Doge,Yes,TRUE,5
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,22,Credit Dao,Yes,TRUE,5
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,23,Manta,Yes,TRUE,4
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,24,ETHOS,Yes,TRUE,3
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,25,A,Yes,TRUE,4
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,26,B,Yes,TRUE,3
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,27,C,Yes,TRUE,4
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,28,D,Yes,TRUE,5
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,29,E,Yes,TRUE,3
+6,Dee Delicia,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,30,F,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,5
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,3,Zetachain,Yes,TRUE,2
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,4,Taiko,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,7,Elixir Protocol,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,12,Savvy,Yes,TRUE,3
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,13,GiroSwap,Yes,TRUE,3
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,15,Binance,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,16,Bybit,Yes,TRUE,4
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,17,Ftx,Yes,TRUE,3
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,18,Social Good,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,19,Catly.io,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,20,Upbit,Yes,TRUE,4
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,21,BNB Doge,Yes,TRUE,5
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,22,Credit Dao,Yes,TRUE,4
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,23,Manta,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,24,ETHOS,Yes,TRUE,4
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,25,A,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,26,B,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,27,C,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,28,D,No,FALSE,0
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,29,E,Yes,TRUE,3
+7,Valerie Guntur,Female,FALSE,Unemployed,FALSE,A,Experienced,TRUE,30,F,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,3,Zetachain,Yes,TRUE,2
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,4,Taiko,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,4
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,8,Viva Leva,Yes,TRUE,4
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,3
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,12,Savvy,Yes,TRUE,2
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,13,GiroSwap,Yes,TRUE,2
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,15,Binance,Yes,TRUE,3
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,16,Bybit,Yes,TRUE,4
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,17,Ftx,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,18,Social Good,Yes,TRUE,3
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,19,Catly.io,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,20,Upbit,Yes,TRUE,4
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,23,Manta,Yes,TRUE,4
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,24,ETHOS,Yes,TRUE,1
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,25,A,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,26,B,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,27,C,Yes,TRUE,1
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,28,D,No,FALSE,0
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,29,E,Yes,TRUE,2
+8,Christine Armani,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,30,F,Yes,TRUE,4
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,4
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,3,Zetachain,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,4,Taiko,Yes,TRUE,5
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,7,Elixir Protocol,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,8,Viva Leva,Yes,TRUE,3
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,9,Cashmerlabs,Yes,TRUE,1
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,3
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,1
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,12,Savvy,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,13,GiroSwap,Yes,TRUE,1
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,15,Binance,Yes,TRUE,4
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,16,Bybit,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,17,Ftx,Yes,TRUE,3
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,18,Social Good,Yes,TRUE,5
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,19,Catly.io,Yes,TRUE,3
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,20,Upbit,Yes,TRUE,4
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,21,BNB Doge,Yes,TRUE,4
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,22,Credit Dao,Yes,TRUE,4
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,23,Manta,Yes,TRUE,5
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,24,ETHOS,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,25,A,Yes,TRUE,2
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,26,B,Yes,TRUE,5
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,27,C,Yes,TRUE,4
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,28,D,Yes,TRUE,1
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,29,E,No,FALSE,0
+9,Jody Laurencia,Female,FALSE,Unemployed,FALSE,B,Experienced,TRUE,30,F,Yes,TRUE,1
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,1
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,3,Zetachain,Yes,TRUE,3
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,4,Taiko,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,5,Linea Voyage,Yes,TRUE,3
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,3
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,12,Savvy,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,13,GiroSwap,Yes,TRUE,4
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,14,Hashgreenswap,Yes,TRUE,5
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,15,Binance,Yes,TRUE,5
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,16,Bybit,Yes,TRUE,5
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,17,Ftx,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,18,Social Good,Yes,TRUE,4
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,19,Catly.io,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,20,Upbit,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,21,BNB Doge,Yes,TRUE,1
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,23,Manta,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,24,ETHOS,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,25,A,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,26,B,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,27,C,Yes,TRUE,4
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,28,D,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,29,E,No,FALSE,0
+10,Ella Monique,Female,FALSE,Unemployed,FALSE,C,Experienced,TRUE,30,F,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,15,Binance,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,16,Bybit,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,17,Ftx,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,18,Social Good,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,19,Catly.io,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,20,Upbit,Yes,TRUE,2
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,21,BNB Doge,Yes,TRUE,5
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,22,Credit Dao,Yes,TRUE,2
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,23,Manta,Yes,TRUE,2
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,25,A,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,26,B,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,27,C,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,28,D,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,29,E,No,FALSE,0
+11,Magnolia Lilian,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,30,F,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,15,Binance,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,16,Bybit,Yes,TRUE,4
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,17,Ftx,Yes,TRUE,4
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,18,Social Good,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,19,Catly.io,Yes,TRUE,5
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,20,Upbit,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,22,Credit Dao,Yes,TRUE,5
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,23,Manta,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,25,A,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,26,B,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,27,C,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,28,D,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,29,E,No,FALSE,0
+12,Nikki Alishia,Female,FALSE,Employed,TRUE,A,Beginner,FALSE,30,F,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,15,Binance,Yes,TRUE,5
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,16,Bybit,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,17,Ftx,Yes,TRUE,1
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,18,Social Good,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,19,Catly.io,Yes,TRUE,5
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,20,Upbit,Yes,TRUE,3
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,22,Credit Dao,Yes,TRUE,5
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,23,Manta,Yes,TRUE,5
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,25,A,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,26,B,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,27,C,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,28,D,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,29,E,No,FALSE,0
+13,Gayla Ava,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,30,F,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,15,Binance,Yes,TRUE,1
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,16,Bybit,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,17,Ftx,Yes,TRUE,5
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,18,Social Good,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,19,Catly.io,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,20,Upbit,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,22,Credit Dao,Yes,TRUE,1
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,23,Manta,Yes,TRUE,1
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,25,A,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,26,B,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,27,C,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,28,D,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,29,E,No,FALSE,0
+14,Rachel Lola,Female,FALSE,Employed,TRUE,B,Beginner,FALSE,30,F,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,3,Zetachain,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,4,Taiko,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,12,Savvy,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,15,Binance,Yes,TRUE,2
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,16,Bybit,Yes,TRUE,1
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,17,Ftx,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,18,Social Good,Yes,TRUE,1
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,19,Catly.io,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,20,Upbit,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,22,Credit Dao,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,23,Manta,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,24,ETHOS,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,25,A,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,26,B,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,27,C,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,28,D,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,29,E,No,FALSE,0
+15,Meghan Roxane,Female,FALSE,Employed,TRUE,C,Beginner,FALSE,30,F,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,3,Zetachain,Yes,TRUE,1
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,4,Taiko,Yes,TRUE,5
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,5,Linea Voyage,Yes,TRUE,2
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,5
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,8,Viva Leva,Yes,TRUE,2
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,5
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,12,Savvy,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,13,GiroSwap,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,14,Hashgreenswap,Yes,TRUE,2
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,15,Binance,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,16,Bybit,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,17,Ftx,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,18,Social Good,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,19,Catly.io,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,20,Upbit,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,23,Manta,Yes,TRUE,1
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,24,ETHOS,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,25,A,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,26,B,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,27,C,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,28,D,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,29,E,No,FALSE,0
+16,Dina Tresha,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,30,F,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,2
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,3,Zetachain,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,4,Taiko,Yes,TRUE,5
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,5,Linea Voyage,Yes,TRUE,5
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,2
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,9,Cashmerlabs,Yes,TRUE,3
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,12,Savvy,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,13,GiroSwap,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,15,Binance,Yes,TRUE,2
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,16,Bybit,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,17,Ftx,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,18,Social Good,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,19,Catly.io,Yes,TRUE,1
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,20,Upbit,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,23,Manta,Yes,TRUE,2
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,24,ETHOS,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,25,A,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,26,B,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,27,C,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,28,D,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,29,E,No,FALSE,0
+17,Griselda Aleta,Female,FALSE,Employed,TRUE,A,Experienced,TRUE,30,F,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,5
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,3,Zetachain,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,4,Taiko,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,7,Elixir Protocol,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,8,Viva Leva,Yes,TRUE,3
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,9,Cashmerlabs,Yes,TRUE,2
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,1
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,12,Savvy,Yes,TRUE,3
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,13,GiroSwap,Yes,TRUE,3
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,14,Hashgreenswap,Yes,TRUE,1
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,15,Binance,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,16,Bybit,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,17,Ftx,Yes,TRUE,4
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,18,Social Good,Yes,TRUE,5
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,19,Catly.io,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,20,Upbit,Yes,TRUE,5
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,21,BNB Doge,Yes,TRUE,5
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,23,Manta,Yes,TRUE,1
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,24,ETHOS,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,25,A,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,26,B,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,27,C,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,28,D,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,29,E,No,FALSE,0
+18,Rosalyn Tamsyn,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,30,F,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,1
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,3,Zetachain,Yes,TRUE,3
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,4,Taiko,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,5,Linea Voyage,Yes,TRUE,4
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,1
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,8,Viva Leva,Yes,TRUE,5
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,4
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,2
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,12,Savvy,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,13,GiroSwap,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,14,Hashgreenswap,Yes,TRUE,5
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,15,Binance,Yes,TRUE,1
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,16,Bybit,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,17,Ftx,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,18,Social Good,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,19,Catly.io,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,20,Upbit,Yes,TRUE,4
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,23,Manta,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,24,ETHOS,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,25,A,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,26,B,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,27,C,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,28,D,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,29,E,No,FALSE,0
+19,Anne Tatiana,Female,FALSE,Employed,TRUE,B,Experienced,TRUE,30,F,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,4
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,5
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,3,Zetachain,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,4,Taiko,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,3
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,4
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,12,Savvy,Yes,TRUE,5
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,13,GiroSwap,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,14,Hashgreenswap,Yes,TRUE,1
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,15,Binance,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,16,Bybit,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,17,Ftx,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,18,Social Good,Yes,TRUE,1
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,19,Catly.io,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,20,Upbit,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,21,BNB Doge,Yes,TRUE,2
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,23,Manta,Yes,TRUE,4
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,24,ETHOS,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,25,A,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,26,B,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,27,C,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,28,D,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,29,E,No,FALSE,0
+20,Yasmin Nurita,Female,FALSE,Employed,TRUE,C,Experienced,TRUE,30,F,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,15,Binance,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,16,Bybit,Yes,TRUE,1
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,17,Ftx,Yes,TRUE,4
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,18,Social Good,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,19,Catly.io,Yes,TRUE,5
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,20,Upbit,Yes,TRUE,2
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,21,BNB Doge,Yes,TRUE,3
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,22,Credit Dao,Yes,TRUE,3
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,23,Manta,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,25,A,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,26,B,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,27,C,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,28,D,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,29,E,No,FALSE,0
+21,Cason Serapion,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,30,F,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,15,Binance,Yes,TRUE,2
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,16,Bybit,Yes,TRUE,3
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,17,Ftx,Yes,TRUE,2
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,18,Social Good,Yes,TRUE,5
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,19,Catly.io,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,20,Upbit,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,21,BNB Doge,Yes,TRUE,2
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,22,Credit Dao,Yes,TRUE,4
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,23,Manta,Yes,TRUE,4
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,25,A,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,26,B,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,27,C,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,28,D,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,29,E,No,FALSE,0
+22,Ilham Freeman,Male,TRUE,Unemployed,FALSE,A,Beginner,FALSE,30,F,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,15,Binance,Yes,TRUE,4
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,16,Bybit,Yes,TRUE,4
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,17,Ftx,Yes,TRUE,2
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,18,Social Good,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,19,Catly.io,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,20,Upbit,Yes,TRUE,1
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,22,Credit Dao,Yes,TRUE,1
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,23,Manta,Yes,TRUE,2
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,25,A,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,26,B,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,27,C,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,28,D,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,29,E,No,FALSE,0
+23,Jordan Innocent,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,30,F,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,15,Binance,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,16,Bybit,Yes,TRUE,3
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,17,Ftx,Yes,TRUE,1
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,18,Social Good,Yes,TRUE,3
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,19,Catly.io,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,20,Upbit,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,21,BNB Doge,Yes,TRUE,2
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,22,Credit Dao,Yes,TRUE,3
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,23,Manta,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,25,A,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,26,B,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,27,C,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,28,D,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,29,E,No,FALSE,0
+24,Howie Platon,Male,TRUE,Unemployed,FALSE,B,Beginner,FALSE,30,F,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,3,Zetachain,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,4,Taiko,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,12,Savvy,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,15,Binance,Yes,TRUE,1
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,16,Bybit,Yes,TRUE,4
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,17,Ftx,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,18,Social Good,Yes,TRUE,4
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,19,Catly.io,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,20,Upbit,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,22,Credit Dao,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,23,Manta,Yes,TRUE,3
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,24,ETHOS,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,25,A,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,26,B,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,27,C,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,28,D,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,29,E,No,FALSE,0
+25,Gaios Forest,Male,TRUE,Unemployed,FALSE,C,Beginner,FALSE,30,F,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,2
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,1
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,3,Zetachain,Yes,TRUE,5
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,4,Taiko,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,5,Linea Voyage,Yes,TRUE,1
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,6,Cloud Base,Yes,TRUE,4
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,7,Elixir Protocol,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,2
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,4
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,12,Savvy,Yes,TRUE,3
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,13,GiroSwap,Yes,TRUE,5
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,15,Binance,Yes,TRUE,5
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,16,Bybit,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,17,Ftx,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,18,Social Good,Yes,TRUE,5
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,19,Catly.io,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,20,Upbit,Yes,TRUE,1
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,21,BNB Doge,Yes,TRUE,5
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,22,Credit Dao,Yes,TRUE,5
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,23,Manta,Yes,TRUE,2
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,24,ETHOS,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,25,A,Yes,TRUE,3
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,26,B,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,27,C,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,28,D,No,FALSE,0
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,29,E,Yes,TRUE,4
+26,Yusuf Ibrahim,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,30,F,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,4
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,4
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,3,Zetachain,Yes,TRUE,1
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,4,Taiko,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,6,Cloud Base,Yes,TRUE,5
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,2
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,8,Viva Leva,Yes,TRUE,2
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,9,Cashmerlabs,Yes,TRUE,2
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,12,Savvy,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,13,GiroSwap,Yes,TRUE,1
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,15,Binance,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,16,Bybit,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,17,Ftx,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,18,Social Good,Yes,TRUE,3
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,19,Catly.io,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,20,Upbit,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,22,Credit Dao,Yes,TRUE,3
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,23,Manta,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,24,ETHOS,Yes,TRUE,4
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,25,A,Yes,TRUE,1
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,26,B,Yes,TRUE,3
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,27,C,Yes,TRUE,4
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,28,D,No,FALSE,0
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,29,E,Yes,TRUE,2
+27,Mega Danial,Male,TRUE,Unemployed,FALSE,A,Experienced,TRUE,30,F,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,3
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,4
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,3,Zetachain,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,4,Taiko,Yes,TRUE,3
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,5,Linea Voyage,Yes,TRUE,3
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,5
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,8,Viva Leva,Yes,TRUE,1
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,9,Cashmerlabs,Yes,TRUE,1
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,4
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,12,Savvy,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,13,GiroSwap,Yes,TRUE,4
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,14,Hashgreenswap,Yes,TRUE,4
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,15,Binance,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,16,Bybit,Yes,TRUE,5
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,17,Ftx,Yes,TRUE,3
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,18,Social Good,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,19,Catly.io,Yes,TRUE,5
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,20,Upbit,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,22,Credit Dao,Yes,TRUE,4
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,23,Manta,Yes,TRUE,4
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,24,ETHOS,Yes,TRUE,3
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,25,A,Yes,TRUE,1
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,26,B,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,27,C,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,28,D,No,FALSE,0
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,29,E,Yes,TRUE,3
+28,Nurul Purnama,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,30,F,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,3,Zetachain,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,4,Taiko,Yes,TRUE,1
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,5,Linea Voyage,Yes,TRUE,5
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,6,Cloud Base,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,9,Cashmerlabs,Yes,TRUE,3
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,12,Savvy,Yes,TRUE,3
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,13,GiroSwap,Yes,TRUE,5
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,14,Hashgreenswap,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,15,Binance,Yes,TRUE,5
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,16,Bybit,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,17,Ftx,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,18,Social Good,Yes,TRUE,1
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,19,Catly.io,Yes,TRUE,1
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,20,Upbit,Yes,TRUE,2
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,21,BNB Doge,Yes,TRUE,2
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,22,Credit Dao,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,23,Manta,Yes,TRUE,2
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,24,ETHOS,Yes,TRUE,4
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,25,A,Yes,TRUE,2
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,26,B,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,27,C,Yes,TRUE,2
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,28,D,Yes,TRUE,5
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,29,E,No,FALSE,0
+29,Usman Ibrahim,Male,TRUE,Unemployed,FALSE,B,Experienced,TRUE,30,F,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,3,Zetachain,Yes,TRUE,3
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,4,Taiko,Yes,TRUE,5
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,5
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,5
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,12,Savvy,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,13,GiroSwap,Yes,TRUE,1
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,15,Binance,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,16,Bybit,Yes,TRUE,5
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,17,Ftx,Yes,TRUE,4
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,18,Social Good,Yes,TRUE,1
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,19,Catly.io,Yes,TRUE,5
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,20,Upbit,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,21,BNB Doge,Yes,TRUE,3
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,23,Manta,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,24,ETHOS,Yes,TRUE,4
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,25,A,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,26,B,Yes,TRUE,5
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,27,C,Yes,TRUE,3
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,28,D,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,29,E,No,FALSE,0
+30,Muhammad Mansur,Male,TRUE,Unemployed,FALSE,C,Experienced,TRUE,30,F,Yes,TRUE,1
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,15,Binance,Yes,TRUE,5
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,16,Bybit,Yes,TRUE,3
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,17,Ftx,Yes,TRUE,5
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,18,Social Good,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,19,Catly.io,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,20,Upbit,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,22,Credit Dao,Yes,TRUE,3
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,23,Manta,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,25,A,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,26,B,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,27,C,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,28,D,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,29,E,No,FALSE,0
+31,Ridwan Usman,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,30,F,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,3,Zetachain,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,4,Taiko,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,12,Savvy,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,15,Binance,Yes,TRUE,3
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,16,Bybit,Yes,TRUE,3
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,17,Ftx,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,18,Social Good,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,19,Catly.io,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,20,Upbit,Yes,TRUE,5
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,21,BNB Doge,Yes,TRUE,1
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,22,Credit Dao,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,23,Manta,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,24,ETHOS,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,25,A,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,26,B,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,27,C,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,28,D,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,29,E,No,FALSE,0
+32,Akbar Adi,Male,TRUE,Employed,TRUE,A,Beginner,FALSE,30,F,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,15,Binance,Yes,TRUE,2
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,16,Bybit,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,17,Ftx,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,18,Social Good,Yes,TRUE,4
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,19,Catly.io,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,20,Upbit,Yes,TRUE,5
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,21,BNB Doge,Yes,TRUE,2
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,22,Credit Dao,Yes,TRUE,4
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,23,Manta,Yes,TRUE,1
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,25,A,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,26,B,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,27,C,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,28,D,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,29,E,No,FALSE,0
+33,Zulfikar Krisna,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,30,F,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,3,Zetachain,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,4,Taiko,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,12,Savvy,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,15,Binance,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,16,Bybit,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,17,Ftx,Yes,TRUE,3
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,18,Social Good,Yes,TRUE,3
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,19,Catly.io,Yes,TRUE,1
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,20,Upbit,Yes,TRUE,1
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,22,Credit Dao,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,23,Manta,Yes,TRUE,2
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,24,ETHOS,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,25,A,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,26,B,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,27,C,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,28,D,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,29,E,No,FALSE,0
+34,Buana Ruslan,Male,TRUE,Employed,TRUE,B,Beginner,FALSE,30,F,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,1,Mantle Testnet,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,2,Scroll Testnet,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,3,Zetachain,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,4,Taiko,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,5,Linea Voyage,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,6,Cloud Base,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,7,Elixir Protocol,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,8,Viva Leva,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,9,Cashmerlabs,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,10,Fusion Finance,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,11,Turbos Finance,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,12,Savvy,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,13,GiroSwap,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,14,Hashgreenswap,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,15,Binance,Yes,TRUE,3
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,16,Bybit,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,17,Ftx,Yes,TRUE,1
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,18,Social Good,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,19,Catly.io,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,20,Upbit,Yes,TRUE,1
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,21,BNB Doge,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,22,Credit Dao,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,23,Manta,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,24,ETHOS,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,25,A,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,26,B,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,27,C,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,28,D,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,29,E,No,FALSE,0
+35,Iskandar Harun,Male,TRUE,Employed,TRUE,C,Beginner,FALSE,30,F,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,3
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,3,Zetachain,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,4,Taiko,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,4
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,2
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,12,Savvy,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,13,GiroSwap,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,15,Binance,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,16,Bybit,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,17,Ftx,Yes,TRUE,3
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,18,Social Good,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,19,Catly.io,Yes,TRUE,4
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,20,Upbit,Yes,TRUE,5
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,22,Credit Dao,Yes,TRUE,2
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,23,Manta,Yes,TRUE,3
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,24,ETHOS,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,25,A,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,26,B,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,27,C,No,FALSE,0
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,28,D,Yes,TRUE,5
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,29,E,Yes,TRUE,1
+36,Tri Agus,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,30,F,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,5
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,2
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,3,Zetachain,Yes,TRUE,5
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,4,Taiko,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,7,Elixir Protocol,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,5
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,12,Savvy,Yes,TRUE,5
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,13,GiroSwap,Yes,TRUE,2
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,15,Binance,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,16,Bybit,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,17,Ftx,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,18,Social Good,Yes,TRUE,1
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,19,Catly.io,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,20,Upbit,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,21,BNB Doge,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,22,Credit Dao,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,23,Manta,Yes,TRUE,1
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,24,ETHOS,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,25,A,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,26,B,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,27,C,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,28,D,No,FALSE,0
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,29,E,Yes,TRUE,3
+37,Amir Surya,Male,TRUE,Employed,TRUE,A,Experienced,TRUE,30,F,Yes,TRUE,4
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,5
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,3,Zetachain,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,4,Taiko,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,6,Cloud Base,Yes,TRUE,2
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,1
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,8,Viva Leva,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,9,Cashmerlabs,Yes,TRUE,5
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,5
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,11,Turbos Finance,Yes,TRUE,3
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,12,Savvy,Yes,TRUE,3
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,13,GiroSwap,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,15,Binance,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,16,Bybit,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,17,Ftx,Yes,TRUE,5
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,18,Social Good,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,19,Catly.io,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,20,Upbit,Yes,TRUE,4
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,21,BNB Doge,Yes,TRUE,3
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,22,Credit Dao,Yes,TRUE,1
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,23,Manta,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,24,ETHOS,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,25,A,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,26,B,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,27,C,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,28,D,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,29,E,No,FALSE,0
+38,Irfan Mohamad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,30,F,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,1,Mantle Testnet,Yes,TRUE,2
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,2,Scroll Testnet,Yes,TRUE,3
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,3,Zetachain,Yes,TRUE,1
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,4,Taiko,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,1
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,8,Viva Leva,Yes,TRUE,4
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,10,Fusion Finance,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,12,Savvy,Yes,TRUE,3
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,13,GiroSwap,Yes,TRUE,4
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,15,Binance,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,16,Bybit,Yes,TRUE,5
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,17,Ftx,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,18,Social Good,Yes,TRUE,1
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,19,Catly.io,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,20,Upbit,Yes,TRUE,5
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,21,BNB Doge,Yes,TRUE,4
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,22,Credit Dao,Yes,TRUE,1
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,23,Manta,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,24,ETHOS,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,25,A,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,26,B,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,27,C,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,28,D,Yes,TRUE,1
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,29,E,No,FALSE,0
+39,Jusuf Ahmad,Male,TRUE,Employed,TRUE,B,Experienced,TRUE,30,F,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,1,Mantle Testnet,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,2,Scroll Testnet,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,3,Zetachain,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,4,Taiko,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,5,Linea Voyage,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,6,Cloud Base,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,7,Elixir Protocol,Yes,TRUE,2
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,8,Viva Leva,Yes,TRUE,4
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,9,Cashmerlabs,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,10,Fusion Finance,Yes,TRUE,4
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,11,Turbos Finance,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,12,Savvy,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,13,GiroSwap,Yes,TRUE,4
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,14,Hashgreenswap,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,15,Binance,Yes,TRUE,3
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,16,Bybit,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,17,Ftx,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,18,Social Good,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,19,Catly.io,Yes,TRUE,1
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,20,Upbit,Yes,TRUE,4
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,21,BNB Doge,Yes,TRUE,3
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,22,Credit Dao,Yes,TRUE,5
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,23,Manta,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,24,ETHOS,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,25,A,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,26,B,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,27,C,No,FALSE,0
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,28,D,Yes,TRUE,1
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,29,E,Yes,TRUE,4
+40,Daryl Gunawan,Male,TRUE,Employed,TRUE,C,Experienced,TRUE,30,F,No,FALSE,0
