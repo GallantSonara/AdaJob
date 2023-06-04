@@ -4,12 +4,11 @@ import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
 export const getUsers = async(req, res) => {
-    console.log("getUsers")
     try {
         const Users = await Users.findAll({
             attributes:['id', 'name', 'email']
         });
-        res.json(Users);
+        res.json(users);
     } catch (error) {
         console.log(error);
     }
@@ -39,6 +38,7 @@ export const login = async(req, res) => {
                 email: req.body.email
             }
         });
+        console.log(user)
         const match = await bcrypt.compare(req.body.password, user[0].password);
         if(!match) return res.status(400).json({msg:"Wrong Password"});
         const userId = user[0].id;
@@ -61,7 +61,7 @@ export const login = async(req, res) => {
         });
         res.json({ accessToken });
     } catch (error) {
-        res.status(404).json({msg:"Email tidak ditemukan"})
+        res.status(404).json({msg:"Email tidak ditemukan"});
     }
 }
 
