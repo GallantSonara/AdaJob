@@ -19,7 +19,6 @@ app.use(cookieParser());
 app.use(express.json());
 app.use(router);
 
-
 app.listen(8080, () => {
-  console.log('Hello world listening on port', 8080);
+  console.log('listening on port', 8080);
 });
