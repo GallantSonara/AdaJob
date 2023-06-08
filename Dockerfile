@@ -1,4 +1,4 @@
-FROM python:3.10.10
+FROM python:3.10.11
 
 WORKDIR /app
 
@@ -16,4 +16,4 @@ ENV PYTHONUNBUFFERED=1
 
 # CMD ["python", "-u", "main.py"]
 
-CMD ["uvicorn", "--host", "0.0.0.0", "--port", "8080", "app:app"]
+CMD ["uvicorn", "--host", "0.0.0.0", "--port", "8080", "main:app"]
