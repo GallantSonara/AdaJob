@@ -6,8 +6,7 @@ This repository contains the documentation for the REST API provided by the appl
 # Register User
 Registers a new user in the system.
 
-URL: http://localhost:5000/users
-
+URL: https://adajob-6irc7snnoq-uc.a.run.app/users
 **Method: POST**
 
 Request Body:
@@ -26,11 +25,18 @@ Response JSON:
   "msg": "Register Berhasil"
 }
 ```
+When User Already Register
+Response JSON:
+```JSON
+{
+    "error": "User is registered"
+}
+```
 
 # User Login
 Authenticates a user and generates an access token.
 
-URL: http://localhost:5000/login
+URL: https://adajob-6irc7snnoq-uc.a.run.app/login
 
 **Method: POST**
 
@@ -58,7 +64,7 @@ GET /joblisting
 Request
 
 **Method: GET**
-Endpoint: http://localhost:5000/joblisting
+Endpoint: https://adajob-6irc7snnoq-uc.a.run.app/joblisting
 
 **Response**
 
