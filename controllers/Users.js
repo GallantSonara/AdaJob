@@ -16,6 +16,20 @@ export const getUsers = async(req, res) => {
 
 export const Register = async(req, res) => {
     const { name, email, password, confPassword } = req.body;
+    try {
+        const registered = await Users.findOne({
+          where: {
+            email: email,
+          },
+        });
+    
+        if (registered) {
+          return res.status(500).json({ error: 'User is registered' });
+        }
+    } catch (error) {
+        console.error('Error checking user registration:', error);
+        res.status(500).json({ error: 'An error occurred' });
+    }
     if(password !== confPassword) return res.status(400).json({msg: "Password dan Confirm Password tidak cocok"});
     const salt = await bcrypt.genSalt();
     const hashPassword = await bcrypt.hash(password, salt);
