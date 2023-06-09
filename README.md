@@ -7,6 +7,7 @@ This repository contains the documentation for the REST API provided by the appl
 Registers a new user in the system.
 
 URL: https://adajob-6irc7snnoq-uc.a.run.app/users
+
 **Method: POST**
 
 Request Body:
