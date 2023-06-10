@@ -10,6 +10,7 @@ Input
   "userID": 0
 }
 ```
+input userID 0-100
 
 Respond
 ```
