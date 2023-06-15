@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298605223553",
+    "project_id": "capstone-adajob",
+    "storage_bucket": "capstone-adajob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298605223553:android:b4634c4a126f6f3edeb780",
+        "android_client_info": {
+          "package_name": "com.example.adajob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oQnRFrWpGSkSuhy2eJiksDg4SY9vZMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
