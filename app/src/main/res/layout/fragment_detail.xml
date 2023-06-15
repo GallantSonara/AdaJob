@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.detail.DetailFragment">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/rich_electric_blue"
+        android:paddingStart="24dp"
+        android:paddingEnd="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/toolbarTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/inter_bold"
+                android:text="@string/detail"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                android:textSize="24sp"
+                android:visibility="visible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ToggleButton
+                android:id="@+id/btnReminder"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/remember_toggle"
+                android:contentDescription="@string/content_desc_reminder"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textOff=""
+                android:textOn=""
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            android:textSize="24sp"
+            android:fontFamily="@font/inter_bold"
+            android:textColor="?android:textColorPrimary"
+            android:layout_alignParentStart="true"
+            tools:text="@string/task_name1" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/tv_title"
+            android:layout_marginTop="16dp"
+            android:background="?android:textColorPrimary" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:fontFamily="@font/inter_regular"
+            tools:text="@string/task_description"
+            android:layout_below="@id/divider"
+            android:layout_marginTop="16dp"
+            android:textColor="?android:textColorPrimary"
+            android:layout_alignParentStart="true"/>
+
+        <View
+            android:id="@+id/divider3"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/tv_description"
+            android:layout_marginTop="16dp"
+            android:background="?android:textColorPrimary" />
+
+        <TextView
+            android:id="@+id/tv_reward"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/task_reward"
+            tools:text="@string/task_reward1"
+            android:textSize="14sp"
+            android:fontFamily="@font/inter_regular"
+            android:textColor="?android:textColorPrimary"
+            android:layout_below="@id/divider3"
+            android:layout_marginTop="16dp"
+            android:layout_alignParentStart="true"/>
+
+        <TextView
+            android:id="@+id/tv_rewardType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_reward"
+            android:layout_marginTop="16dp"
+            android:fontFamily="@font/inter_regular"
+            android:textColor="?android:textColorPrimary"
+            android:textSize="14sp"
+            tools:text="@string/task_rewardType1"
+            android:layout_alignParentStart="true"/>
+
+        <TextView
+            android:id="@+id/tv_deadline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/task_deadline"
+            tools:text="@string/task_deadline1"
+            android:textSize="14sp"
+            android:fontFamily="@font/inter_regular"
+            android:textColor="?android:textColorPrimary"
+            android:layout_below="@id/divider3"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="16dp"/>
+        <TextView
+            android:id="@+id/tv_taskType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:text="@string/task_type"
+            android:fontFamily="@font/inter_regular"
+            android:layout_below="@id/tv_deadline"
+            android:layout_marginTop="16dp"
+            android:textColor="?android:textColorPrimary"
+            tools:text="@string/task_type1"
+            android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
