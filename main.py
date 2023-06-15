@@ -68,6 +68,17 @@ def delete_enrolled_tasks(userid, titles):
       #print('a')
   return recommended_titles
 
+def arrayToObject(theArray):
+  class Top3Tasks:
+    def __init__(self, task1, task2, task3):
+      self.task1 = task1
+      self.task2 = task2
+      self.task3 = task3
+
+  final_recommendation = Top3Tasks(theArray[0], theArray[1], theArray[2])
+
+  #print(vars(final_recommendation))
+  return vars(final_recommendation)
 
 @app.get("/")
 def hello_world():
@@ -82,4 +93,5 @@ class Item(BaseModel):
 def add_item(item: Item):
     _, title = model.predict([str(item.userID)])
     result = delete_enrolled_tasks(item.userID, title)
-    return result
+    final_result = arrayToObject(result)
+    return final_result
