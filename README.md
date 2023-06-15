@@ -12,3 +12,11 @@ This branch is dedicated to the mobile development of the AdaJob project, which 
 + [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html#tutorials)
 + [Preferences](https://developer.android.com/training/data-storage/shared-preferences?hl=id)
 + [Room](https://developer.android.com/training/data-storage/room?hl=id)
+
+#### Features available in the app:
+
++ Recommendation System
++ Reminder
++ Search
+
+The app requires a minimum of Android 5.0 (Lollipop) or later version to be installed.
