@@ -1,14 +1,19 @@
 package com.example.adajob
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.adajob.R
+import androidx.appcompat.app.AppCompatActivity
+import com.example.adajob.databinding.ActivityMainBinding
+import com.example.adajob.utils.UserPreferences
 
 class MainActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityMainBinding
+    private lateinit var pref: UserPreferences
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
+        pref = UserPreferences(this)
 
     }
 }

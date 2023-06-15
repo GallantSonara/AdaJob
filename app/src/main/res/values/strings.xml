@@ -1,33 +1,62 @@
 <resources>
     <string name="app_name">AdaJob</string>
+    <string name="detail">Detail</string>
+
+    // Tools
+    <string name="task_name1">Social Good</string>
+    <string name="task_reward1">Reward : $4</string>
+    <string name="task_type1">Task Type : Instant</string>
+    <string name="task_deadline1">Deadline : Update Developer</string>
+    <string name="task_rewardType1">Reward Type : Token</string>
+
+    <string name="task_description">1. Budi\n2. Makan\n3. Ayam\n4. Bakar\n5. Di rumah\n6. Bambang\n7. Sambil\n8. Main\n9. Ep Ep\n</string>
+
+    <string name="settings">Settings</string>
+    <string name="error">Error</string>
+    <string name="not_found">Not Found</string>
+
+    <string name="task_reward">Reward : %s</string>
+    <string name="task_type">Task Type : %s</string>
+    <string name="task_deadline">Deadline : %s</string>
+    <string name="task_rewardType">Reward Type : %s</string>
 
     <string name="login">LOGIN</string>
     <string name="loginDesc">Please sign in to continue</string>
-    <string name="registerDesc">Enter your usernamae, email and password</string>
+    <string name="registerDesc">Enter your username, email and password</string>
     <string name="register">REGISTER</string>
     <string name="or">or</string>
     <string name="register_text_button">Create New Account</string>
     <string name="login_text_button">Login using an existing account</string>
-    <string name="username">Name</string>
+    <string name="name">Username</string>
+    <string name="retype_pass">Retype Your Password</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
-    
-    <string name="userinfo">Help Us Get to Know You Better</string>
-    <string name="gender">Gender</string>
-    <string name="employment_status">Are you currently employed?</string>
-    <string name="age_user_inf">How old are you?</string>
-    <string name="experience">What is your level of experience?</string>
-    
-    <string name="male">Male</string>
-    <string name="female">Female</string>
-    <string name="yes">Yes</string>
-    <string name="No">No</string>
-    <string name="is_24or_younger">24 years old or younger</string>
-    <string name="is_25_or_35">25 to 35 years old</string>
-    <string name="is_36_or_older">36 years old or older</string>
-    <string name="newbie">Newbie</string>
-    <string name="experienced">Experienced</string>
+
+    <string name="task_list">Task List</string>
+    <string name="recommendation_task">For You</string>
+    <string name="reminder_task">Reminder</string>
+
+    <string name="error_empty_password">Password cannot be empty</string>
+    <string name="error_password_more_8">Password must be at least 6 characters long</string>
+    <string name="error_invalid_email">Invalid e-mail</string>
+    <string name="error_empty_email">E-mail cannot be empty</string>
+    <string name="error_empty_name">Name cannot be empty</string>
+
+    // Content Description
+    <string name="content_desc_arrow_back">Back</string>
+    <string name="content_desc_search">Search</string>
+    <string name="content_desc_logout">Logout</string>
+    <string name="content_desc_reminder">Add To Reminder</string>
+
+    <string name="logout_title">Logout</string>
+    <string name="logout_message">Ara you sure?</string>
+
+    <string name="retry">Try Again</string>
+
+    <string name="logout">LOGOUT</string>
 
     <string name="lets_hunt">LET’S HUNT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
