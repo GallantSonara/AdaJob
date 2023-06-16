@@ -11,8 +11,8 @@ To duplicate our project, download the datasets first and run the Recommender_Sy
 We refer to [TensorFlow Recommenders' documentation](https://github.com/tensorflow/recommenders/blob/main/docs/examples/basic_retrieval.ipynb) to build our recommendation model.
 
 Note:
-For other machine learning models in this repository, we can add them in further developing AdaJob.
 
+For other machine learning models in this repository, we can add them in further developing AdaJob.
 For example, if later we want to develop user identity verification, whether it is to extract personal data from users based on OCR or to recognize user faces, it must first be ensured that the photo uploaded by the user is an id card or not. In addition, our model can focus more on the id card part only if it turns out that the uploaded photo contains objects that are not needed by the model.
 
 
