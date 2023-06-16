@@ -31,7 +31,7 @@ class PasswordEditText : AppCompatEditText {
                 val password = s.toString()
                 error = when {
                     password.isEmpty() -> context.getString(R.string.error_empty_password)
-                    password.length < 6 -> context.getString(R.string.error_password_more_8)
+                    password.length < 6 -> context.getString(R.string.error_password)
                     else -> null
                 }
             }

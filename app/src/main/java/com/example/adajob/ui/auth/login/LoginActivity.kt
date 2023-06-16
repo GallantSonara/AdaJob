@@ -90,7 +90,7 @@ class LoginActivity : AppCompatActivity() {
             }
             pass.length < 6 -> {
                 binding.edtPassword.requestFocus()
-                binding.edtPassword.error = getString(R.string.error_password_more_8)
+                binding.edtPassword.error = getString(R.string.error_password)
             }
             else -> viewModel.loginUser(email, pass)
         }

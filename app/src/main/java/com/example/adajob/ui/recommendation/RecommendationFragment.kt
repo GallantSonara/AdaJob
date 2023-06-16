@@ -15,6 +15,7 @@ import com.example.adajob.api.body.RecommendationRequest
 import com.example.adajob.databinding.FragmentRecommendationBinding
 import com.example.adajob.utils.BaseResponses
 import com.example.adajob.utils.ListAdapter
+import com.example.adajob.utils.NetworkUtils
 import com.example.adajob.utils.ViewModelFactory
 
 class RecommendationFragment : Fragment() {
@@ -24,7 +25,11 @@ class RecommendationFragment : Fragment() {
     private lateinit var viewModel: RecommendationViewModel
     private lateinit var adapter: ListAdapter
 
-    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View {
         _binding = FragmentRecommendationBinding.inflate(inflater, container, false)
         return binding.root
     }
@@ -35,21 +40,26 @@ class RecommendationFragment : Fragment() {
         val factory = ViewModelFactory(requireContext(), Application())
         viewModel = ViewModelProvider(this, factory)[RecommendationViewModel::class.java]
 
-        navigateToDetail()
-        setupRecyclerview()
-        getRecommendation(getRandomNumber())
+        if (NetworkUtils.isInternetAvailable(requireContext())) {
+            navigateToDetail()
+            setupRecyclerview()
+            getRecommendation(getRandomNumber())
+            binding.notFound.visibility = View.GONE
+        } else {
+            binding.notFound.visibility = View.VISIBLE
+        }
     }
 
     private fun getRandomNumber(): Int {
         return (1..100).random()
     }
 
-    private fun setupRecyclerview(){
+    private fun setupRecyclerview() {
         binding.recyclerview.layoutManager = LinearLayoutManager(requireContext())
         binding.recyclerview.adapter = adapter
     }
 
-    private fun navigateToDetail(){
+    private fun navigateToDetail() {
         adapter = ListAdapter(emptyList()) { job ->
             val bundle = Bundle().apply {
                 putParcelable("job", job)
@@ -77,23 +87,19 @@ class RecommendationFragment : Fragment() {
                 }
                 is BaseResponses.Error -> {
                     showLoading(false)
-                    val errorMsg = response.msg
-                    showError(errorMsg)
+                    notFound()
                 }
             }
         }
     }
 
     private fun showLoading(state: Boolean) {
-        if (state) binding.progressBar.visibility = View.VISIBLE else binding.progressBar.visibility = View.GONE
+        if (state) binding.progressBar.visibility =
+            View.VISIBLE else binding.progressBar.visibility = View.GONE
     }
 
-    private fun showError(msg: String?) {
-        val errorMessage = getString(R.string.not_found) + " $msg"
-        binding.apply {
-            errorMsg.visibility = View.VISIBLE
-            errorMsg.text = errorMessage
-        }
+    private fun notFound() {
+        binding.notFound.visibility = View.VISIBLE
     }
 
     override fun onDestroyView() {

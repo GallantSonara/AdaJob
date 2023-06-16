@@ -33,17 +33,4 @@
         <item name="tabSelectedTextColor">@color/rich_electric_blue</item>
     </style>
 
-    <style name="AppToolbarTitleStyle" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
-        <item name="android:textSize">24sp</item>
-        <item name="fontFamily">@font/inter_bold</item>
-    </style>
-
-    <style name="AppToolbarStyle" parent="Widget.AppCompat.Toolbar">
-        <item name="android:titleTextAppearance">@style/AppToolbarTitleStyle</item>
-    </style>
-
-    <style name="AppTheme" parent="Theme.AppCompat.Light">
-        <item name="android:toolbarStyle">@style/AppToolbarStyle</item>
-    </style>
-
 </resources>

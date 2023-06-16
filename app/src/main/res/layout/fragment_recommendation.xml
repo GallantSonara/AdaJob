@@ -7,12 +7,12 @@
     tools:context=".ui.recommendation.RecommendationFragment">
 
     <TextView
-        android:id="@+id/error_msg"
+        android:id="@+id/notFound"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/inter_bold"
-        android:text="@string/error"
         android:textSize="25sp"
+        android:text="@string/not_found"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

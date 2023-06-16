@@ -109,7 +109,7 @@ class RegisterActivity : AppCompatActivity() {
             }
             pass.length < 6 -> {
                 binding.edtPassword.requestFocus()
-                binding.edtPassword.error = getString(R.string.error_password_more_8)
+                binding.edtPassword.error = getString(R.string.error_password)
             }
             else -> viewModel.registerUser(name, email, pass, repass)
         }

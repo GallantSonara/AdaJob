@@ -52,9 +52,7 @@ class ReminderFragment : Fragment() {
     @SuppressLint("NotifyDataSetChanged")
     private fun getData() {
         viewModel.getReminderJob()?.observe(viewLifecycleOwner) { jobs ->
-            if (jobs.isEmpty()){
-
-            }
+            if (jobs.isEmpty()) binding.notFound.visibility = View.VISIBLE else binding.notFound.visibility = View.GONE
             adapter.job = jobs
             adapter.notifyDataSetChanged()
         }

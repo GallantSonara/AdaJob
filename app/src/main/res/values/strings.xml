@@ -2,16 +2,15 @@
     <string name="app_name">AdaJob</string>
     <string name="detail">Detail</string>
 
-    // Tools
+    // Dummy
     <string name="task_name1">Social Good</string>
     <string name="task_reward1">Reward : $4</string>
     <string name="task_type1">Task Type : Instant</string>
     <string name="task_deadline1">Deadline : Update Developer</string>
     <string name="task_rewardType1">Reward Type : Token</string>
 
-    <string name="task_description">1. Budi\n2. Makan\n3. Ayam\n4. Bakar\n5. Di rumah\n6. Bambang\n7. Sambil\n8. Main\n9. Ep Ep\n</string>
+    <string name="task_description">This is task description</string>
 
-    <string name="settings">Settings</string>
     <string name="error">Error</string>
     <string name="not_found">Not Found</string>
 
@@ -37,13 +36,11 @@
     <string name="reminder_task">Reminder</string>
 
     <string name="error_empty_password">Password cannot be empty</string>
-    <string name="error_password_more_8">Password must be at least 6 characters long</string>
+    <string name="error_password">Password must be at least 6 characters long</string>
     <string name="error_invalid_email">Invalid e-mail</string>
     <string name="error_empty_email">E-mail cannot be empty</string>
     <string name="error_empty_name">Name cannot be empty</string>
 
-    // Content Description
-    <string name="content_desc_arrow_back">Back</string>
     <string name="content_desc_search">Search</string>
     <string name="content_desc_logout">Logout</string>
     <string name="content_desc_reminder">Add To Reminder</string>
@@ -52,11 +49,5 @@
     <string name="logout_message">Ara you sure?</string>
 
     <string name="retry">Try Again</string>
-
-    <string name="logout">LOGOUT</string>
-
-    <string name="lets_hunt">LET’S HUNT</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
