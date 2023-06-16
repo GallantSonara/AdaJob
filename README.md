@@ -17,4 +17,9 @@ This branch is dedicated to the mobile development of the AdaJob project, which 
 + Reminder
 + Search
 
+#### UI/UX Design :
++ [Prototype](https://www.figma.com/proto/aiNaoUWlMgNRubEKZGrTgp/Bangkit-Project-Plan?type=design&node-id=75-2787&scaling=scale-down&page-id=34%3A194&starting-point-node-id=75%3A2787)
++ [Hi-Fi](https://www.figma.com/file/aiNaoUWlMgNRubEKZGrTgp/Bangkit-Project-Plan?type=design&node-id=34-194)
++ [Lo-Fi](https://www.figma.com/file/aiNaoUWlMgNRubEKZGrTgp/Bangkit-Project-Plan?type=design&node-id=32-180)
+
 The app requires a minimum of Android 5.0 (Lollipop) or later version to be installed.
