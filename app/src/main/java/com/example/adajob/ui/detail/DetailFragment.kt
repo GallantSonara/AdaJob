@@ -21,7 +21,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.adajob.R
 import com.example.adajob.api.response.ListJobResponse
 import com.example.adajob.databinding.FragmentDetailBinding
-import com.example.adajob.utils.ViewModelFactory
+import com.example.adajob.ViewModelFactory
 import kotlinx.coroutines.*
 import java.util.*
 

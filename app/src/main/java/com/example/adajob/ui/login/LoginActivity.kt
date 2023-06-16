@@ -1,4 +1,4 @@
-package com.example.adajob.ui.auth.login
+package com.example.adajob.ui.login
 
 import android.app.Application
 import android.content.Context
@@ -13,10 +13,10 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.adajob.MainActivity
 import com.example.adajob.R
 import com.example.adajob.databinding.ActivityLoginBinding
-import com.example.adajob.ui.auth.register.RegisterActivity
+import com.example.adajob.ui.register.RegisterActivity
 import com.example.adajob.utils.BaseResponses
 import com.example.adajob.utils.UserPreferences
-import com.example.adajob.utils.ViewModelFactory
+import com.example.adajob.ViewModelFactory
 
 class LoginActivity : AppCompatActivity() {
 

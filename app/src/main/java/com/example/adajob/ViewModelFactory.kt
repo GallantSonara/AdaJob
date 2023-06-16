@@ -1,16 +1,15 @@
 @file:Suppress("UNCHECKED_CAST")
 
-package com.example.adajob.utils
+package com.example.adajob
 
 import android.app.Application
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.adajob.Repository
 import com.example.adajob.api.ApiConfig
 import com.example.adajob.dao.JobDatabase
-import com.example.adajob.ui.auth.login.LoginViewModel
-import com.example.adajob.ui.auth.register.RegisterViewModel
+import com.example.adajob.ui.login.LoginViewModel
+import com.example.adajob.ui.register.RegisterViewModel
 import com.example.adajob.ui.detail.DetailViewModel
 import com.example.adajob.ui.main.MainViewModel
 import com.example.adajob.ui.recommendation.RecommendationViewModel

@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.adajob.R
 import com.example.adajob.databinding.FragmentReminderBinding
 import com.example.adajob.utils.ListAdapter
-import com.example.adajob.utils.ViewModelFactory
+import com.example.adajob.ViewModelFactory
 
 class ReminderFragment : Fragment() {
 

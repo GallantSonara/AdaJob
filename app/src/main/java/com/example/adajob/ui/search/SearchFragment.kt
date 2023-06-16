@@ -17,11 +17,11 @@ import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.adajob.R
 import com.example.adajob.databinding.FragmentSearchBinding
-import com.example.adajob.ui.auth.login.LoginActivity
+import com.example.adajob.ui.login.LoginActivity
 import com.example.adajob.utils.BaseResponses
 import com.example.adajob.utils.ListAdapter
 import com.example.adajob.utils.UserPreferences
-import com.example.adajob.utils.ViewModelFactory
+import com.example.adajob.ViewModelFactory
 
 class SearchFragment : Fragment() {
 
@@ -58,6 +58,7 @@ class SearchFragment : Fragment() {
         getData()
     }
 
+    @SuppressLint("NotifyDataSetChanged")
     private fun getData(){
         viewModel.searchResult.observe(viewLifecycleOwner) { response ->
             when (response) {

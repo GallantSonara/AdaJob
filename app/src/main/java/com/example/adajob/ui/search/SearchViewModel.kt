@@ -1,9 +1,10 @@
 package com.example.adajob.ui.search
 
-import android.annotation.SuppressLint
 import android.app.Application
-import android.util.Log
-import androidx.lifecycle.*
+import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.MutableLiveData
+import androidx.lifecycle.viewModelScope
 import com.example.adajob.api.response.ListJobResponse
 import com.example.adajob.dao.JobDao
 import com.example.adajob.dao.JobDatabase

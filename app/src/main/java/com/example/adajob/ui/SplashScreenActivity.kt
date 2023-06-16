@@ -8,7 +8,7 @@ import android.os.Handler
 import android.os.Looper
 import com.example.adajob.MainActivity
 import com.example.adajob.databinding.ActivitySplashScreenBinding
-import com.example.adajob.ui.auth.login.LoginActivity
+import com.example.adajob.ui.login.LoginActivity
 import com.example.adajob.utils.UserPreferences
 
 @SuppressLint("CustomSplashScreen")

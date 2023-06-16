@@ -30,7 +30,7 @@ class Repository(private val apiService: ApiService, private val jobDatabase: Jo
             config = PagingConfig(
                 pageSize = 1
             ),
-            remoteMediator = com.example.adajob.utils.ListRemoteMediator(
+            remoteMediator = com.example.adajob.utils.RemoteMediator(
                 jobDatabase,
                 apiService
             ),

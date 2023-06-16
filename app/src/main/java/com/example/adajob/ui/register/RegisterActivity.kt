@@ -1,4 +1,4 @@
-package com.example.adajob.ui.auth.register
+package com.example.adajob.ui.register
 
 import android.app.Application
 import android.content.Context
@@ -11,9 +11,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.example.adajob.R
 import com.example.adajob.databinding.ActivityRegisterBinding
-import com.example.adajob.ui.auth.login.LoginActivity
+import com.example.adajob.ui.login.LoginActivity
 import com.example.adajob.utils.BaseResponses
-import com.example.adajob.utils.ViewModelFactory
+import com.example.adajob.ViewModelFactory
 
 class RegisterActivity : AppCompatActivity() {
 

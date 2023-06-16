@@ -1,4 +1,4 @@
-package com.example.adajob.ui.auth.register
+package com.example.adajob.ui.register
 
 import android.content.Context
 import androidx.lifecycle.MutableLiveData

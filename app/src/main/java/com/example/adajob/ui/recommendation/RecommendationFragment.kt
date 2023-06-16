@@ -16,7 +16,7 @@ import com.example.adajob.databinding.FragmentRecommendationBinding
 import com.example.adajob.utils.BaseResponses
 import com.example.adajob.utils.ListAdapter
 import com.example.adajob.utils.NetworkUtils
-import com.example.adajob.utils.ViewModelFactory
+import com.example.adajob.ViewModelFactory
 
 class RecommendationFragment : Fragment() {
 

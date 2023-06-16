@@ -12,7 +12,7 @@ import androidx.navigation.fragment.findNavController
 import androidx.viewpager2.widget.ViewPager2
 import com.example.adajob.R
 import com.example.adajob.databinding.FragmentMainBinding
-import com.example.adajob.ui.auth.login.LoginActivity
+import com.example.adajob.ui.login.LoginActivity
 import com.example.adajob.utils.PagerAdapter
 import com.example.adajob.utils.UserPreferences
 import com.google.android.material.tabs.TabLayout

@@ -11,7 +11,7 @@ import com.example.adajob.dao.JobDatabase
 import com.example.adajob.dao.RemoteKeys
 
 @OptIn(ExperimentalPagingApi::class)
-class ListRemoteMediator(private val database: JobDatabase, private val apiService: ApiService) : RemoteMediator<Int, ListJobResponse>() {
+class RemoteMediator(private val database: JobDatabase, private val apiService: ApiService) : RemoteMediator<Int, ListJobResponse>() {
 
     private companion object {
         const val INITIAL_PAGE_INDEX = 1

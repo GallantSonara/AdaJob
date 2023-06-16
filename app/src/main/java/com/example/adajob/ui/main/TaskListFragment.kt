@@ -13,7 +13,7 @@ import com.example.adajob.R
 import com.example.adajob.databinding.FragmentTaskListBinding
 import com.example.adajob.utils.LoadingStateAdapter
 import com.example.adajob.utils.ListPagingAdapter
-import com.example.adajob.utils.ViewModelFactory
+import com.example.adajob.ViewModelFactory
 
 class TaskListFragment : Fragment() {
     private var _binding: FragmentTaskListBinding? = null
